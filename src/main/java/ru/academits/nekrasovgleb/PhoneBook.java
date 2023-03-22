@@ -7,9 +7,6 @@ import ru.academits.nekrasovgleb.converter.IdsConverter;
 import ru.academits.nekrasovgleb.dao.ContactDao;
 import ru.academits.nekrasovgleb.service.ContactService;
 
-/**
- * Created by Anna on 14.06.2017.
- */
 public class PhoneBook {
 
     public static ContactDao contactDao = new ContactDao();

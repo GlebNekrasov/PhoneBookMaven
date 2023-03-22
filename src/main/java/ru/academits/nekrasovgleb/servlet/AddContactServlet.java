@@ -4,8 +4,8 @@ import ru.academits.nekrasovgleb.PhoneBook;
 import ru.academits.nekrasovgleb.converter.ContactConverter;
 import ru.academits.nekrasovgleb.converter.ContactValidationConverter;
 import ru.academits.nekrasovgleb.model.Contact;
-import ru.academits.nekrasovgleb.service.ContactValidation;
 import ru.academits.nekrasovgleb.service.ContactService;
+import ru.academits.nekrasovgleb.service.ContactValidation;
 
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
